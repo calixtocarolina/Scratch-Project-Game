@@ -8,3 +8,4 @@ In order to create this project, I used:
 - one variable
 - a custom block with one input
 
+In order to play the game and to see the code of the project, is necessary to go to this [link] (https://scratch.mit.edu/projects/650220848/).
